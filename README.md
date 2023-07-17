@@ -1,6 +1,7 @@
 # MubeenSShaikh
 Hi GitHub,
-I am Mubeen.
-I like technology and trying to learn a few.
+This is Mubeen.
+I am technology enthusiast.
+
 Thank You for your help.
 NewRepository-Mubeen
