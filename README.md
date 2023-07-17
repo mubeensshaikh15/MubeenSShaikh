@@ -1,7 +1,7 @@
 # MubeenSShaikh
 Hi GitHub,
 This is Mubeen.
-I am technology enthusiast.
+I am a technology enthusiast.
 
 Thank You for your help.
 NewRepository-Mubeen
